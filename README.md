@@ -22,6 +22,8 @@ Only 2 of the 11 comparisons pass a strict test for multiple comparisons. These 
 
 The data comes from **Wielka Ankieta Branży Data** (Great Data Industry Survey), created by **Crappy Data**. It has 297 people and 7 connected tables about work, teams, tools, pay, well-being and future plans.
 
+Pay means average monthly take-home pay ("na rękę") in PLN. People were expected to divide their yearly income by 12, after all taxes and social contributions (ZUS). The survey author cannot guarantee that everyone calculated it in exactly this way.
+
 **The raw data is not in this repository**, because the data rules do not allow publishing it. The project shows only group results and hides groups with fewer than 5 people.
 
 ## Methods
